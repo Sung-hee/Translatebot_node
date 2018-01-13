@@ -89,6 +89,16 @@
 > 3. 번역 정보를 JSON으로 C9 Server로 전달
 > 4. C9 Server은 Kakao API 를 통해서 정보를 출력 !
 
+### 5. node.js 패키지 설치
+>```
+>$ npm init -y
+>$ npm install request
+>$ npm install body-parser
+>$ npm install express
+>```
+
+
+
 ## 자동번역 챗봇 + 정규표현식(Regular Expression)
 
 #### 텍스트가 한글인지 영어인지 구분하기 !
@@ -135,6 +145,5 @@
 >     translatepost(options);
 >   }
 > ```
-
 
 
