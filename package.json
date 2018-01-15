@@ -15,5 +15,13 @@
   },
   "devDependencies": {},
   "keywords": [],
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sung-hee/Translatebot_node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sung-hee/Translatebot_node/issues"
+  },
+  "homepage": "https://github.com/Sung-hee/Translatebot_node#readme"
 }
